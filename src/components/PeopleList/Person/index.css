@@ -1,0 +1,50 @@
+
+  h1 {
+      font-size: 30px;
+  }
+  
+  .form {
+    padding: 1em;
+    margin-bottom: 1em;
+  }
+  
+  #name {
+    text-align: center;
+  }
+  
+  .label {
+    display: inline-block;
+    width: 100%;
+    height: 25px;
+    margin-bottom: 1em;
+    background-color: white;
+    color: black;
+    text-indent: 10px;
+    line-height: 25px;
+  }
+  
+  .line {
+    background-color: rgb(144, 161, 149);
+    margin-bottom: 2em;
+    padding: 0 5em 1em 5em;
+  }
+  
+  @media (min-width: 768px) {
+    .line{ 
+      display: flex;
+      flex-direction: column;
+      margin: 0 auto;
+      width: 500px;
+      margin-bottom: 2em;
+    }
+  
+    .label {
+      display: inline-box;
+      width: 100%;
+    }
+  
+    .App {
+      padding: 2em 5em 2em 5em;
+    }
+    
+  }

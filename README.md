@@ -1,3 +1,10 @@
+#React-Fetch-2
+
+The intuition of this project was to learn how to get API using fetch function.
+I also used Hooks (such as useState), interfaces, filter and map functions.
+
+
+***
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

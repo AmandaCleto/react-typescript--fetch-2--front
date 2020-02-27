@@ -1,0 +1,17 @@
+html {
+    background-color: #282c34;
+    color: white;
+  }
+  
+.center {
+  font-size: 30px;
+  text-align: center;
+  margin-top: 1em;
+}
+
+h1 {
+  font-size: 20px;
+}
+.App {
+  padding: 2em;
+}
