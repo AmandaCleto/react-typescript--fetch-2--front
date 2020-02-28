@@ -1,4 +1,4 @@
-#React-Fetch-2
+# React-Fetch-2
 
 The intuition of this project was to learn how to get API using fetch function.
 I also used Hooks (such as useState), interfaces, filter and map functions.
